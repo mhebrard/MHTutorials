@@ -18,7 +18,11 @@ As I am interested in Virtual Reality headset device, I imported some useful ass
 * create a new Unity Project
 * import package Characters (Assets/Import Package/Characters)
 * import asset [VRSamples](https://www.assetstore.unity3d.com/en/#!/content/51519)
-* TODO: import asset MH-Utils...
+* import asset MHUtils
+ * download the file [MHUtils.unitypackage](https://github.com/mhebrard/MHTutorials/raw/master/unity3d/MHUtils.unitypackage)
+ * import the package (Assets/Import Package/Custom Package...)
+ * browse to the file MHUtils.unitypackage and open it
+ * import the package
 * in Project tab, create a new folder (named "MyProject" for example)
 * in MyProject folder, create a new folder "Scenes"
  * in Project tab,
@@ -42,5 +46,5 @@ As I am interested in Virtual Reality headset device, I imported some useful ass
 
 ## Tutorials
 
-* [VR Camera](https://github.com/mhebrard/MHTutorials) (Use a camera with presets for VR headset)
-* [Move Camera](https://github.com/mhebrard/MHTutorials) (Handle keyboard input to move the camera)
+* [VR Camera](https://github.com/mhebrard/MHTutorials/tree/master/unity3d/MHUtils/VRCamera) (Use a camera with presets for VR headset)
+* [Move Camera](https://github.com/mhebrard/MHTutorials/tree/master/unity3d/MHUtils/MoveCamera) (Handle keyboard input to move the camera)
