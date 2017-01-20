@@ -31,4 +31,4 @@ node myscript.js [some arguments]
 
 ## Scripts
 
- * queryAPI (request an API and write the respond in a json file)
+ * [queryAPI](https://github.com/mhebrard/MHTutorials/tree/master/nodejs/Scripts/queryapi) (request an API and write the respond in a json file)
