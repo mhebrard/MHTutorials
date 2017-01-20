@@ -5,7 +5,7 @@ var fs = require('graceful-fs');
 var url = 'pokeapi.co'; // the base url of the API
 var endpoint = 'api/v2/pokemon/'; // the specific enpoint
 var request = '4/' // the specific query
-var outputFile = '../Data/pokemon-4-stats.json'; // name of the output file
+var outputFile = '../Data/pokemon-4-stats.json'; // path of the output file
 
 // run the query
 query(url, `/${endpoint}${request}`, receive);

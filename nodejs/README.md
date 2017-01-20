@@ -14,5 +14,5 @@ First you need to be familiar with [nodejs](https://nodejs.org/).
 ## Tutorials
 
 * Scripts (.js file that you will run on your machine)
- * [queryAPI](https://github.com/mhebrard/MHTutorials/tree/master/nodejs/Scripts/queryapi) (request an API and write the respond in a json file)
-* Data (data files examples used by scripts)
+* [pack](https://github.com/mhebrard/MHTutorials/tree/master/nodejs/Scripts/pack.js) (read a json file, compute a [pack layout](https://github.com/d3/d3-hierarchy/blob/master/README.md#pack) and save the nodes in a json file)
+* [queryAPI](https://github.com/mhebrard/MHTutorials/tree/master/nodejs/Scripts/queryapi.js) (request an API and write the respond in a json file)

@@ -10,6 +10,7 @@
   "author": "Maxime Hebrard <maxime.hebrard@gmail.com> (http://github.com/mhebrard)",
   "license": "MIT",
   "dependencies": {
+    "d3-hierarchy": "^1.0.3",
     "graceful-fs": "^4.1.11",
     "http": "0.0.0"
   }
