@@ -9,7 +9,7 @@ var output = '../Data/stats-pack.json'
 var data = require(input);
 // format data
 var root = toPack(data);
-// coompute the layout
+// compute the layout
 var nodes = packing(root);
 // You can use nodes as it is for d3 visualization
 // but for sake of example we save it in a json file
